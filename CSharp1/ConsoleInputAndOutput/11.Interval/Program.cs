@@ -10,7 +10,7 @@ namespace _11.Interval
     {
         static void Main(string[] args)
         {
-            //te
+            //tes
             int a = int.Parse(Console.ReadLine());
             int b = int.Parse(Console.ReadLine());
             int counter = 0;
