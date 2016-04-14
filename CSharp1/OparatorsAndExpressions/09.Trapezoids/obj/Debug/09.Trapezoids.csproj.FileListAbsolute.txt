@@ -1,0 +1,6 @@
+C:\Users\Alexander Staikov\Desktop\Telerik 2016-2017\CSharp1\OparatorsAndExpressions\09.Trapezoids\bin\Debug\09.Trapezoids.exe.config
+C:\Users\Alexander Staikov\Desktop\Telerik 2016-2017\CSharp1\OparatorsAndExpressions\09.Trapezoids\bin\Debug\09.Trapezoids.exe
+C:\Users\Alexander Staikov\Desktop\Telerik 2016-2017\CSharp1\OparatorsAndExpressions\09.Trapezoids\bin\Debug\09.Trapezoids.pdb
+C:\Users\Alexander Staikov\Desktop\Telerik 2016-2017\CSharp1\OparatorsAndExpressions\09.Trapezoids\obj\Debug\09.Trapezoids.csprojResolveAssemblyReference.cache
+C:\Users\Alexander Staikov\Desktop\Telerik 2016-2017\CSharp1\OparatorsAndExpressions\09.Trapezoids\obj\Debug\09.Trapezoids.exe
+C:\Users\Alexander Staikov\Desktop\Telerik 2016-2017\CSharp1\OparatorsAndExpressions\09.Trapezoids\obj\Debug\09.Trapezoids.pdb

@@ -1,0 +1,5 @@
+C:\Users\Alexander Staikov\Desktop\Telerik 2016-2017\CSharp1\OparatorsAndExpressions\05.ThirdDigit\bin\Debug\05.ThirdDigit.exe.config
+C:\Users\Alexander Staikov\Desktop\Telerik 2016-2017\CSharp1\OparatorsAndExpressions\05.ThirdDigit\bin\Debug\05.ThirdDigit.exe
+C:\Users\Alexander Staikov\Desktop\Telerik 2016-2017\CSharp1\OparatorsAndExpressions\05.ThirdDigit\bin\Debug\05.ThirdDigit.pdb
+C:\Users\Alexander Staikov\Desktop\Telerik 2016-2017\CSharp1\OparatorsAndExpressions\05.ThirdDigit\obj\Debug\05.ThirdDigit.exe
+C:\Users\Alexander Staikov\Desktop\Telerik 2016-2017\CSharp1\OparatorsAndExpressions\05.ThirdDigit\obj\Debug\05.ThirdDigit.pdb

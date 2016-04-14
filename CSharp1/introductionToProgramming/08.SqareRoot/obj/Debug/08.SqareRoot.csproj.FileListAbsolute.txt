@@ -1,0 +1,6 @@
+C:\Users\Alexander Staikov\Desktop\Telerik 2016-2017\CSharp1\introductionToProgramming\08.SqareRoot\bin\Debug\08.SqareRoot.exe.config
+C:\Users\Alexander Staikov\Desktop\Telerik 2016-2017\CSharp1\introductionToProgramming\08.SqareRoot\bin\Debug\08.SqareRoot.exe
+C:\Users\Alexander Staikov\Desktop\Telerik 2016-2017\CSharp1\introductionToProgramming\08.SqareRoot\bin\Debug\08.SqareRoot.pdb
+C:\Users\Alexander Staikov\Desktop\Telerik 2016-2017\CSharp1\introductionToProgramming\08.SqareRoot\obj\Debug\08.SqareRoot.csprojResolveAssemblyReference.cache
+C:\Users\Alexander Staikov\Desktop\Telerik 2016-2017\CSharp1\introductionToProgramming\08.SqareRoot\obj\Debug\08.SqareRoot.exe
+C:\Users\Alexander Staikov\Desktop\Telerik 2016-2017\CSharp1\introductionToProgramming\08.SqareRoot\obj\Debug\08.SqareRoot.pdb

@@ -1,0 +1,1 @@
+C:\Users\Alexander Staikov\Desktop\Telerik 2016-2017\CSharp1\OparatorsAndExpressions\07.PointInACircle\bin\Debug\07.PointInACircle.exe.config

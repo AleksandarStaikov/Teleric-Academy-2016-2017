@@ -1,0 +1,6 @@
+C:\Users\Alexander Staikov\Desktop\Telerik 2016-2017\CSharp1\OparatorsAndExpressions\01.OddOrEven\bin\Debug\01.OddOrEven.exe.config
+C:\Users\Alexander Staikov\Desktop\Telerik 2016-2017\CSharp1\OparatorsAndExpressions\01.OddOrEven\bin\Debug\01.OddOrEven.exe
+C:\Users\Alexander Staikov\Desktop\Telerik 2016-2017\CSharp1\OparatorsAndExpressions\01.OddOrEven\bin\Debug\01.OddOrEven.pdb
+C:\Users\Alexander Staikov\Desktop\Telerik 2016-2017\CSharp1\OparatorsAndExpressions\01.OddOrEven\obj\Debug\01.OddOrEven.csprojResolveAssemblyReference.cache
+C:\Users\Alexander Staikov\Desktop\Telerik 2016-2017\CSharp1\OparatorsAndExpressions\01.OddOrEven\obj\Debug\01.OddOrEven.exe
+C:\Users\Alexander Staikov\Desktop\Telerik 2016-2017\CSharp1\OparatorsAndExpressions\01.OddOrEven\obj\Debug\01.OddOrEven.pdb

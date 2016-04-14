@@ -1,0 +1,5 @@
+C:\Users\Alexander Staikov\Desktop\Telerik 2016-2017\CSharp1\OparatorsAndExpressions\04.Rectangles\bin\Debug\04.Rectangles.exe.config
+C:\Users\Alexander Staikov\Desktop\Telerik 2016-2017\CSharp1\OparatorsAndExpressions\04.Rectangles\bin\Debug\04.Rectangles.exe
+C:\Users\Alexander Staikov\Desktop\Telerik 2016-2017\CSharp1\OparatorsAndExpressions\04.Rectangles\bin\Debug\04.Rectangles.pdb
+C:\Users\Alexander Staikov\Desktop\Telerik 2016-2017\CSharp1\OparatorsAndExpressions\04.Rectangles\obj\Debug\04.Rectangles.exe
+C:\Users\Alexander Staikov\Desktop\Telerik 2016-2017\CSharp1\OparatorsAndExpressions\04.Rectangles\obj\Debug\04.Rectangles.pdb

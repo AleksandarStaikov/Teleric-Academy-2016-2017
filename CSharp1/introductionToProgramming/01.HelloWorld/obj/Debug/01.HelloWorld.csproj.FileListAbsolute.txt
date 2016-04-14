@@ -1,0 +1,1 @@
+C:\Users\Alexander Staikov\Desktop\Telerik 2016-2017\CSharp1\introductionToProgramming\01.HelloWorld\bin\Debug\01.HelloWorld.exe.config

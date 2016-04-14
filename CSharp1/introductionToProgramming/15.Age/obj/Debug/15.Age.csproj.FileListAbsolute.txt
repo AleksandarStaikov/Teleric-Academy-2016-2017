@@ -1,0 +1,6 @@
+C:\Users\Alexander Staikov\Desktop\Telerik 2016-2017\CSharp1\introductionToProgramming\15.Age\bin\Debug\15.Age.exe.config
+C:\Users\Alexander Staikov\Desktop\Telerik 2016-2017\CSharp1\introductionToProgramming\15.Age\bin\Debug\15.Age.exe
+C:\Users\Alexander Staikov\Desktop\Telerik 2016-2017\CSharp1\introductionToProgramming\15.Age\bin\Debug\15.Age.pdb
+C:\Users\Alexander Staikov\Desktop\Telerik 2016-2017\CSharp1\introductionToProgramming\15.Age\obj\Debug\15.Age.csprojResolveAssemblyReference.cache
+C:\Users\Alexander Staikov\Desktop\Telerik 2016-2017\CSharp1\introductionToProgramming\15.Age\obj\Debug\15.Age.exe
+C:\Users\Alexander Staikov\Desktop\Telerik 2016-2017\CSharp1\introductionToProgramming\15.Age\obj\Debug\15.Age.pdb
