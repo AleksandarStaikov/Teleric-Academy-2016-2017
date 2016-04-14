@@ -34,14 +34,14 @@ namespace _06.QuadraticEquation
                     biggerX = x2;
                     smallerX = x1;
                 }
-                Console.WriteLine(smallerX);
-                Console.WriteLine(biggerX);
+                Console.WriteLine("{0:F2}", smallerX);
+                Console.WriteLine("{0:F2}", biggerX);
             }
 
             //If the root is only one 
             if (d == 0)
             {
-                Console.WriteLine(-b / a * 2);
+                Console.WriteLine("{0:F2}", -b / (a * 2));
             }
             //If there are no roots
             if (d < 0)
