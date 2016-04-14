@@ -10,7 +10,7 @@ namespace _03.Circle
     {
         static void Main(string[] args)
         {
-            double radius = int.Parse(Console.ReadLine());
+            double radius = double.Parse(Console.ReadLine());
             double perimeter = 2 * radius * Math.PI;
             double area = radius * radius * Math.PI;
 

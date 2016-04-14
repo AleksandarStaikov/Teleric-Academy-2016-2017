@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.CompanyInfo", "02.Compan
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Circle", "03.Circle\03.Circle.csproj", "{CF09160D-5BDC-48FE-A39D-8F7C291BF54D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.NumberComparer", "04.NumberComparer\04.NumberComparer.csproj", "{B2E0BB4E-4CA2-4392-8AE0-24BBAC8A7BCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.QuadraticEquation", "06.QuadraticEquation\06.QuadraticEquation.csproj", "{F3BC0A86-6288-4A84-9FF8-B8DB2C600BDC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{CF09160D-5BDC-48FE-A39D-8F7C291BF54D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF09160D-5BDC-48FE-A39D-8F7C291BF54D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF09160D-5BDC-48FE-A39D-8F7C291BF54D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2E0BB4E-4CA2-4392-8AE0-24BBAC8A7BCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2E0BB4E-4CA2-4392-8AE0-24BBAC8A7BCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2E0BB4E-4CA2-4392-8AE0-24BBAC8A7BCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2E0BB4E-4CA2-4392-8AE0-24BBAC8A7BCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3BC0A86-6288-4A84-9FF8-B8DB2C600BDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3BC0A86-6288-4A84-9FF8-B8DB2C600BDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3BC0A86-6288-4A84-9FF8-B8DB2C600BDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3BC0A86-6288-4A84-9FF8-B8DB2C600BDC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
