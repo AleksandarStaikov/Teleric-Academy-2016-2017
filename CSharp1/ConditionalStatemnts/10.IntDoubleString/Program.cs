@@ -11,10 +11,21 @@ namespace _10.IntDoubleString
         static void Main(string[] args)
         {
             string varType = Console.ReadLine();
-            if (varType == "string")
+            string word = Console.ReadLine();
+
+            if (varType == "text")
             {
-                string word = Console.ReadLine();
                 Console.WriteLine("{0}*",word);
+            }
+            else if (varType == "real")
+            {
+                double number = double.Parse(word);
+                Console.WriteLine("{0:F2}",number + 1);
+            }
+            else
+            {
+                double number = double.Parse(word);
+                Console.WriteLine(number + 1);
             }
         }
     }

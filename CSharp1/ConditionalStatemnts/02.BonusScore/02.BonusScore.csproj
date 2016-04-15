@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>d84532c9-f780-4131-a0b5-d65311f41c6f</ProjectGuid>
+    <ProjectGuid>{7D882EC3-3CFC-4473-A597-63CD6A9F0A9C}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>_02.BonusScore</RootNamespace>
-    <AssemblyName>_02.BonusScore</AssemblyName>
+    <AssemblyName>02.BonusScore</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

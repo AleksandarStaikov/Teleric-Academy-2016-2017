@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>2cafb6a9-c3f7-4cbe-8495-1ce7a7a38e1e</ProjectGuid>
+    <ProjectGuid>{A511950C-EB73-463D-90B6-F6C6B67B135B}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>_03.PlayCard</RootNamespace>
-    <AssemblyName>_03.PlayCard</AssemblyName>
+    <AssemblyName>03.PlayCard</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

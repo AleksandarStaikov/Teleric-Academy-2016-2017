@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>a9cad94f-287e-4632-b014-eddb3cf22d89</ProjectGuid>
+    <ProjectGuid>{2B1C7156-F612-4AEB-AA85-80B796D3457F}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>_01.ExchangeNumbers</RootNamespace>
-    <AssemblyName>_01.ExchangeNumbers</AssemblyName>
+    <AssemblyName>01.ExchangeNumbers</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

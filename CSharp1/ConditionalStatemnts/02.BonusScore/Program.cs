@@ -20,7 +20,7 @@ namespace _02.BonusScore
             {
                 Console.WriteLine(score * 100);
             }
-            else if (score > 6 && score > 10)
+            else if (score > 6 && score < 10)
             {
                 Console.WriteLine(score * 1000);
             }

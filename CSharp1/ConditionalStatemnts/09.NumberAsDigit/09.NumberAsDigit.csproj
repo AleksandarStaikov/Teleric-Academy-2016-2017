@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>e07b7093-0266-4d07-a4c9-2b87e49d2255</ProjectGuid>
+    <ProjectGuid>{819A4210-A10A-4C9E-9D95-7FBC146F917C}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>_09.NumberAsDigit</RootNamespace>
-    <AssemblyName>_09.NumberAsDigit</AssemblyName>
+    <AssemblyName>09.NumberAsDigit</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

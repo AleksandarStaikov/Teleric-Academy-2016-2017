@@ -12,20 +12,22 @@ namespace _04.MultiplicationSign
         {
             double a = double.Parse(Console.ReadLine());
             double b = double.Parse(Console.ReadLine());
-            double result = double.Parse(Console.ReadLine());
+            double c = double.Parse(Console.ReadLine());
 
-            if ((a + b) == result)
-            {
-                Console.WriteLine("+");
-            }
-            else if ((a - b) == result)
+            double result = a * b * c;
+            if (result < 0)
             {
                 Console.WriteLine("-");
             }
-            else
+            else if (result > 0)
+            {
+                Console.WriteLine("+");
+            }
+            else if (result == 0)
             {
                 Console.WriteLine("0");
             }
+
         }
 
     }

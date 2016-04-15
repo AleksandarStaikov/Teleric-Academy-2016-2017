@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>c95c43c7-c817-478f-bfc2-58f55782f3ab</ProjectGuid>
+    <ProjectGuid>{F7E63094-B1BF-4C9B-A194-604A52EFF0B3}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>_05.BiggestOf3</RootNamespace>
-    <AssemblyName>_05.BiggestOf3</AssemblyName>
+    <AssemblyName>05.BiggestOf3</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

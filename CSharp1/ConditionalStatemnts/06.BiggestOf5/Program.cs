@@ -32,7 +32,7 @@ namespace _06.BiggestOf5
             }
             if (e > biggest)
             {
-                biggest = e
+                biggest = e;
             }
 
             Console.WriteLine(biggest);
