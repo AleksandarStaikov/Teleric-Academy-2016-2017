@@ -1,46 +1,37 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace _10.Fibonacci_Numbers
+class Program
 {
-    class Program
+    static void Main()
     {
-        static void Main(string[] args)
-        {
-            int n = int.Parse(Console.ReadLine());
-            int a = 0, b = 1, temp;
-            //if n = 1 
-            if (n == 1)
-            {
-                Console.Write(a);
-                return;
-            }
-            else
-            {
-                Console.Write(a);
-            }
-            //if n =2
-            if (n == 2 )
-            {
-                Console.Write(", {0}", b);
-                return;
-            }
-            else
-            {
-                Console.Write(", {0}", b);
-            }
+        byte n = byte.Parse(Console.ReadLine());
+        long a = 0;
+        long b = 1;
 
-            for (int i = 3; i <= n; i++)
+        if (n == 1)
+        {
+            Console.WriteLine("0");
+        }
+        else
+        {
+            Console.Write("0, 1, ");
+            for (int i = 2; i < n; i++)
             {
+                long temp;
                 temp = a + b;
-                Console.Write(", {0}", temp);
                 a = b;
                 b = temp;
-            }
+                if (i + 1 != n)
+                {
+                    Console.Write("{0}, ", temp);
+                }
+                else
+                {
+                    Console.Write(temp);
+                }
 
+            }
         }
     }
 }
+
