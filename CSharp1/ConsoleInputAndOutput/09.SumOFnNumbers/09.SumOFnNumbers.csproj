@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>cd044cd3-6310-43f9-ba68-795a3581481c</ProjectGuid>
+    <ProjectGuid>{EE0978AD-C3D8-4B37-A756-63EFC2C1C04A}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>_09.SumOFnNumbers</RootNamespace>
-    <AssemblyName>_09.SumOFnNumbers</AssemblyName>
+    <AssemblyName>09.SumOFnNumbers</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

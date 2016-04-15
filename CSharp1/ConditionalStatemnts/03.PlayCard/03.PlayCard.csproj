@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{FD2BFDC8-706A-4DC5-B9BE-FBEB210A14CA}</ProjectGuid>
+    <ProjectGuid>2cafb6a9-c3f7-4cbe-8495-1ce7a7a38e1e</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_11.Interval</RootNamespace>
-    <AssemblyName>11.Interval</AssemblyName>
+    <RootNamespace>_03.PlayCard</RootNamespace>
+    <AssemblyName>_03.PlayCard</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
