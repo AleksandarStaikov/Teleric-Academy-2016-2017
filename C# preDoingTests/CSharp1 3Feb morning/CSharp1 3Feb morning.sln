@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{E5037B6D-80E8-4B33-A5B7-FFE67E9D9658}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "searchInBits", "searchInBits\searchInBits.csproj", "{FD2D6A15-DCBB-4C3F-9446-533E337677E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersianGugs", "PersianGugs\PersianGugs.csproj", "{3A0E4B7A-9074-43BF-B360-1E44CB4620E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5037B6D-80E8-4B33-A5B7-FFE67E9D9658}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5037B6D-80E8-4B33-A5B7-FFE67E9D9658}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5037B6D-80E8-4B33-A5B7-FFE67E9D9658}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5037B6D-80E8-4B33-A5B7-FFE67E9D9658}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD2D6A15-DCBB-4C3F-9446-533E337677E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD2D6A15-DCBB-4C3F-9446-533E337677E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD2D6A15-DCBB-4C3F-9446-533E337677E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD2D6A15-DCBB-4C3F-9446-533E337677E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A0E4B7A-9074-43BF-B360-1E44CB4620E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A0E4B7A-9074-43BF-B360-1E44CB4620E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A0E4B7A-9074-43BF-B360-1E44CB4620E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A0E4B7A-9074-43BF-B360-1E44CB4620E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
