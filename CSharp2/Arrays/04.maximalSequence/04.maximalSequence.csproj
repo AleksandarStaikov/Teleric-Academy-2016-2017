@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2F2B9E2E-CFAE-4C96-8E7F-5B93A9E107D0}</ProjectGuid>
+    <ProjectGuid>{CB576D22-35AC-49A7-9AED-935C2374D4BD}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Decoding</RootNamespace>
-    <AssemblyName>Decoding</AssemblyName>
+    <RootNamespace>_04.maximalSequence</RootNamespace>
+    <AssemblyName>04.maximalSequence</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

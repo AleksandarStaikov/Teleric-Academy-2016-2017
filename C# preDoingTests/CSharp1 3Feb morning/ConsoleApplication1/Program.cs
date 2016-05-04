@@ -11,23 +11,19 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            BigInteger  product = 1;
+            BigInteger product = 1;
             string input = string.Empty;
             input = Console.ReadLine();
             int i = 0;
             bool cheked = false;
-
             do
             {
-                ulong temp = 1;
-
-                //checking if it is end of the sequence
+                //cheks if the program ends
                 if (input == "END")
                 {
                     break;
                 }
-
-                //checking the numbers count
+                //checks the ten number
                 if (!cheked)
                 {
                     if (i > 9)
@@ -38,30 +34,29 @@ namespace ConsoleApplication1
                         cheked = true;
                     }
                 }
-                
-                //check if the number is at an odd position
+
+                BigInteger temp = 1;
+                //checks it the number is at even position
                 if (i % 2 != 0)
                 {
-                    //going through number`s digits
+                    //calculates the product of the digits
                     for (int j = 0; j < input.Length; j++)
                     {
-                        //escape the zeros
+                        //skips the zero
                         if (((ulong)input[j] - '0') == 0)
                         {
                             continue;
                         };
                         temp *= (ulong)input[j] - '0';
                     }
-                    //updating the product
+                    //adds the digit product to the result
                     product *= temp;
                 }
-
-                input = Console.ReadLine();
                 i++;
+                input = Console.ReadLine();
             } while (input != "END");
 
             Console.WriteLine(product);
-
         }
     }
 }

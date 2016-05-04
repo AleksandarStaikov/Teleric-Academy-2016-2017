@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "searchInBits", "searchInBit
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersianGugs", "PersianGugs\PersianGugs.csproj", "{3A0E4B7A-9074-43BF-B360-1E44CB4620E1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "threeNumbers", "threeNumbers\threeNumbers.csproj", "{7E28F40F-2353-4397-95E7-568F8DDBA126}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decoding", "Decoding\Decoding.csproj", "{2F2B9E2E-CFAE-4C96-8E7F-5B93A9E107D0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{3A0E4B7A-9074-43BF-B360-1E44CB4620E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A0E4B7A-9074-43BF-B360-1E44CB4620E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A0E4B7A-9074-43BF-B360-1E44CB4620E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E28F40F-2353-4397-95E7-568F8DDBA126}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E28F40F-2353-4397-95E7-568F8DDBA126}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E28F40F-2353-4397-95E7-568F8DDBA126}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E28F40F-2353-4397-95E7-568F8DDBA126}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F2B9E2E-CFAE-4C96-8E7F-5B93A9E107D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F2B9E2E-CFAE-4C96-8E7F-5B93A9E107D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F2B9E2E-CFAE-4C96-8E7F-5B93A9E107D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F2B9E2E-CFAE-4C96-8E7F-5B93A9E107D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
