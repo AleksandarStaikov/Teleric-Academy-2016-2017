@@ -1,0 +1,72 @@
+*{
+	margin: 0;
+	padding:0;
+}
+body{
+	background-image: url("example.png");
+	font-family: sans-serif;
+}
+p{
+	color: #9b9090;
+	margin-top: 9px;
+	margin-left: 3px;
+	font-size: 15.5px;
+}
+table{
+	padding-top: 11px;
+	padding-left: 0;
+	margin-left: 0;
+	color: white;
+	font-family: sans-serif;
+	font-size: 11px;
+	height: 177px;
+
+}
+td{
+	width: 98px;
+}
+td:nth-child(2){
+	width: 120px
+}
+
+table tr td:nth-child(1){
+	font-style: italic;
+}
+
+#top{
+	vertical-align: top;
+}
+
+
+
+
+#name .spacer{
+	display: inline-block;
+	width: 68px;
+}
+#email .spacer{
+	display: inline-block;
+	width: 68px;
+}#response-time .spacer{
+	display: inline-block;
+	width: 7px;
+}#last-action .spacer{
+	display: inline-block;
+	width: 30px;
+}#status .spacer{
+	display: inline-block;
+	width: 66px;
+}
+.category{
+	height: 30px;	
+	color: white;
+	font-size: 10px;
+}
+#dot{
+	border: 5px solid #71B47A;
+	display: inline-block;
+	width: 0px;
+	height: 0px;
+	border-radius: 10px;
+
+}

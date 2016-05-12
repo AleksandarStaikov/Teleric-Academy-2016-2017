@@ -12,7 +12,7 @@ namespace _12.indexOfLetters
         {
             string text = Console.ReadLine();
             char[] letters = new char[26];
-            for (int i = 0; i < 25; i++)
+            for (int i = 0; i < 26; i++)
             {
                 letters[i] = (char)(97 + i);
             }
