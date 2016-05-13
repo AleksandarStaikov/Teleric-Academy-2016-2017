@@ -62,7 +62,6 @@ namespace _07.SystemToAnyOther
             {15 , 'F'},
         };
 
-
         public static Dictionary<char, BigInteger> hexValues = new Dictionary<char, BigInteger>()
         {
             {'0', 0  },

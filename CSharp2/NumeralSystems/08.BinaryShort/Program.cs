@@ -26,6 +26,8 @@ namespace _08.BinaryShort
             }
             Console.WriteLine(result);
         }
+
+
         static string DecimaToAnything(int decValue, int baseValue)
         {
             string result = "";

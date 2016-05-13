@@ -14,6 +14,7 @@ namespace _04.HexadecimalToDecimal
             string hexValue =  Console.ReadLine();
             Console.WriteLine(ToDecimal(hexValue, 16));
         }
+
         public static BigInteger ToDecimal(string input, int inputNumSystem)
         {
             BigInteger sum = 0;

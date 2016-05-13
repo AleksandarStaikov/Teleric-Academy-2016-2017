@@ -15,7 +15,6 @@ namespace _05.HexadecimalToBinary
             Console.WriteLine(DecimaToAnything(ToDecimal(hexValue, 16), 2));
         }
 
-
         static string DecimaToAnything(BigInteger decValue, int baseValue)
         {
             string result = "";

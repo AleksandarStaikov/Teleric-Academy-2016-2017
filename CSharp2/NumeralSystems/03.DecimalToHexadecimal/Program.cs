@@ -29,6 +29,7 @@ namespace _03.DecimalToHexadecimal
             return result;
         }
 
+
         public static Dictionary<BigInteger, char> hexValues = new Dictionary<BigInteger, char>()
         {
             {0 , '0'},

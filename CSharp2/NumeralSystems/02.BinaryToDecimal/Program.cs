@@ -14,6 +14,7 @@ namespace _02.BinaryToDecimal
             string binValue = Console.ReadLine();
             Console.WriteLine(ToDecimal(binValue, 2));
         }
+
         public static BigInteger ToDecimal(string input, int inputNumSystem)
         {
             BigInteger sum = 0;
