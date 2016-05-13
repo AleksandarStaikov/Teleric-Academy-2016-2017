@@ -34,9 +34,9 @@ namespace _07.LargestAreaInMatrix
             }
             // && row <= n - largestArea
             // && col <= m - largestArea
-            for (int row = 0; row < n && row <= n - largestArea; row++)
+            for (int row = 0; row < n; row++)
             {
-                for (int col = 0; col < m && col <= m - largestArea; col++)
+                for (int col = 0; col < m; col++)
                 {
                     //TOP
                     //if (row - 1 >= 0)
@@ -131,9 +131,9 @@ namespace _07.LargestAreaInMatrix
         static void BFS(int[,] matrix, int row, int col)
         {
             //TOP
-            if (row - 1 >= 0)
+            if (row - 1 >= 0 )
             {
-                if (matrix[row, col] == matrix[row - 1, col]
+                if (matrix[row, col] == matrix[row - 1, col] 
                     && !visited[row - 1, col])
                 {
                     currentArea++;
@@ -177,7 +177,7 @@ namespace _07.LargestAreaInMatrix
                     currentArea++;
                     neighbours.Enqueue(new Point(row + 1, col + 1));
                     visited[row + 1, col + 1] = true;
-                }
+                }   
             }
 
             //BOT
@@ -234,7 +234,7 @@ namespace _07.LargestAreaInMatrix
             }
 
             visited[row, col] = true;
-            while (neighbours.Count > 0)
+            while (neighbours.Count > 0 )
             {
                 Point temp = neighbours.Dequeue();
                 BFS(matrix, temp.x, temp.y);
