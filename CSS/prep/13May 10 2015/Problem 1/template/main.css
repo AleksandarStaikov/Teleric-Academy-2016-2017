@@ -1,0 +1,97 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-size: 16px;
+	font-family: "Times New Roman";
+}
+
+.avengers{
+	list-style: none;
+}
+
+	.avengers li{
+		display: inline-block;
+		float: left;
+		padding: 10px 15px 10px 15px;
+		border-top-left-radius: 15px;
+		border: 3px solid black;
+		border-right: none;
+	}
+
+		.avengers li:last-child{
+			border-right: 2px solid black;
+		}
+
+		.avengers li .name{
+			font-weight: bold;
+		}
+
+			.avengers li:hover{
+				background-color: #ccc;
+				text-decoration: underline;
+				border-bottom: none;
+			}
+
+			.avengers li:hover > .preview{
+				display: inline-block;
+				width: 625px;
+				height: 265px;
+				position: absolute;
+				left: 0;
+				background-color: #CCC;
+				border: 3px solid black;
+				border-top: none;
+				margin-top: 13px;
+			}
+
+
+				.avengers li .preview img{
+					display: inline-block;
+					width: 400px;
+					height: 225px;
+					border: 5px solid white;
+    				border-radius: 5px;
+				    margin-left: 15px;
+				    margin-top: 15px;
+				}
+			/*.avengers li:first-child .preview{
+				display: inline-block;
+				width: 625px;
+				height: 265px;
+				position: absolute;
+				left: 0;
+				background-color: #CCC;
+				border: 3px solid black;
+				border-top: none;
+				margin-top: 13px;
+			}*/
+
+
+.preview {
+	display: none;
+}
+
+.skills{
+	position: absolute;
+	top:45px;
+	bottom: 0px;
+	right: 0px;
+	width: 205px;
+}
+
+ .avengers li .preview .skills li{
+	border: none;
+	text-align: center;
+	display: block;
+	margin-bottom: 20px;
+	width: 170px;
+	text-transform: capitalize;
+	font-size: 20px;
+}
+
+
+
+
+
+
+

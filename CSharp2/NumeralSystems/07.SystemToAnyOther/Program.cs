@@ -31,7 +31,6 @@ namespace _07.SystemToAnyOther
         static string DecToAnything(BigInteger decValue, int outputBase)
         {
             string result = "";
-
             do
             {
                 BigInteger reminder = decValue % outputBase;

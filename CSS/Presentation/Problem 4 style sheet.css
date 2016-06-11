@@ -1,0 +1,153 @@
+﻿body {
+    font-family: 'Segoe UI';
+    
+}
+
+    body > table {
+        background-color:#DFE9F6;
+        cursor:default;
+         padding:10px;
+    border-right:1px solid grey;
+    border-left:1px solid grey;
+    border-top:1px solid grey;
+    border-bottom:1px solid grey;
+    }
+ul{
+    list-style-type:none;
+    border-bottom:#b6bccc;
+    padding-left:1.5px;
+}
+
+     ul.menu li{
+        display:inline;
+        
+    }
+
+.menu {
+    width:420px;
+    background-color:#F8F8F8 ;
+    margin-top:25px;
+    border-bottom:1px solid grey;
+    border-top:1px solid grey;
+    border-right:1px solid grey;
+    border-left:1px solid grey;
+}
+
+    .menu li:hover {
+        background-color:lightblue;
+        cursor:default;
+    }
+
+    .menu li {
+        padding-right:15px;
+    }
+
+
+#resultnumber {
+    height:35px;
+    width:430px;
+    background-color:white;
+    text-align:right;
+    font-size:24px;
+}
+
+#toptable {
+    text-align:left;
+    width:433px;
+    margin-top:5px;
+    margin-bottom:5px;
+    border-top : 1px solid grey;
+    border-right:1px solid grey;
+    border-bottom:1px solid grey;
+    border-left:1px solid grey;
+}
+
+.align-right {
+    text-align:right;
+    width:5px;
+}
+
+.greynumbers {
+    color:grey;
+}
+
+div{
+    float:left;
+}
+
+aside {
+    margin-bottom:5px;
+    margin-right:5px;
+    border-top:1px solid grey;
+    border-bottom:1px solid grey;
+    border-right:1px solid grey;
+    border-left:1px solid grey;
+}
+
+main > table {
+    height:255px;
+    margin-left:93px;
+}
+
+.button {
+    width:100%;
+    height:30px;
+}
+
+    .button:hover {
+        background-color:#FBD37C;
+    }
+
+.ravno {
+    height:75px;
+}
+
+.buttonstable {
+    width:342px;
+}
+.butonchetagorevdqsno {
+    float:right; 
+    margin-top:-23px;  
+    margin-right:-10px;
+}
+
+.butonchetagorevdqsno div {
+    font-size:20px;
+    margin-top:10px;
+    
+
+}
+   
+ .butonchetagorevdqsno .times {
+     text-align:center;
+     vertical-align:center;
+     width:50px; 
+     background-color:red;
+     color:white;  
+    }
+
+    .butonchetagorevdqsno .minus {
+        text-align:center;
+        width:40px;
+    }  
+ 
+ .butonchetagorevdqsno .times:hover {
+        background-color:#D14733;
+        cursor:default;
+    }
+
+    .butonchetagorevdqsno .minus:hover {
+        background-color:royalblue;
+        color:white;
+        
+    }
+
+    .butonchetagorevdqsno .square {
+        color:grey;
+        vertical-align:top;
+        width:25px;
+    }
+
+div#heading {
+    display:inline;
+}

@@ -1,0 +1,111 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+body{
+   
+background: #c3a0ec;
+background: -moz-linear-gradient(top,  #c3a0ec 0%, #d791ff 0%, #d292fd 1%, #c58af2 5%, #a439f4 15%, #911df0 20%, #8f19ef 22%, #9215f2 25%, #9215f2 100%); 
+background: -webkit-linear-gradient(top,  #c3a0ec 0%,#d791ff 0%,#d292fd 1%,#c58af2 5%,#a439f4 15%,#911df0 20%,#8f19ef 22%,#9215f2 25%,#9215f2 100%);
+background: linear-gradient(to bottom,  #c3a0ec 0%,#d791ff 0%,#d292fd 1%,#c58af2 5%,#a439f4 15%,#911df0 20%,#8f19ef 22%,#9215f2 25%,#9215f2 100%); 
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c3a0ec', endColorstr='#9215f2',GradientType=0 );
+
+}
+nav,article {
+    border: 2px solid #4F0B83;
+}
+
+    #header-container #logo-container{
+    display: inline-block;
+    margin-top: 15px;
+    margin-left: 10px;   
+    }
+
+        #header-container #logo-container img{
+            height: 90px;
+            width: 400px;
+        }
+
+    #header-container #reg-form-container{
+    display: inline-block;
+    float: right;
+    padding-top: 30px;
+    padding-right: 40px; 
+    }
+
+        #header-container #reg-form-container input{
+            height: 17px;
+            background-color: #B35EF3;
+            border: 2px solid #4F0B83;
+            border-radius: 10px;
+            margin-bottom: 5px;
+}
+
+        #header-container #reg-form-container button{
+            background-color: #B35EF3;
+            height: 25px;
+            width: 80px;
+            border-radius: 5px;
+            color: white;
+        }
+
+    header nav{
+        display: inline-block;
+        width: 1000px;
+        border: 2px solid #4F0B83;
+        border-radius: 10px;
+        padding:5px 10px 5px 10px;
+        margin-left: 30px;
+        margin-top: 30px;
+
+
+    }
+
+    #main-nav-list > li{
+        display: inline-block;
+        padding-right: 10px;
+        text-decoration: none;
+    }
+
+        #main-nav-list a{
+            text-decoration: none;
+            margin-top: 15px;
+        }
+
+    #main-nav-list li:hover > .sub-nav-list{
+        display: inline-block;
+    }
+    .sub-nav-list{
+        display: none;
+        position: absolute;
+        list-style: none;
+        text-decoration: none;
+    }
+        .sub-nav-list li a{
+            text-decoration: none;
+        }
+
+
+    section article{
+        display: inline-block;
+        width: 870px;
+        border-radius: 10px;
+        margin: 10px 0px 10px 20px;
+
+    }
+
+        section article header {
+            margin-top: 20px;
+            margin-left: 30px;
+    }
+
+        section article p{
+            margin-top: 5px;
+            margin-left: 25px;
+    }
+        section article footer{
+            float: left;
+            margin-left:500px;
+            margin-bottom: 15px;
+        }

@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Massages", "Massages\Massages.csproj", "{EF8165CD-C0D5-4EEC-8EF2-FF8218D83FE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DancingMoves", "DancingMoves\DancingMoves.csproj", "{A1B3EAEC-D4C0-4263-A52C-8DC2097B3BA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HarryPotter4D", "HarryPotter4D\HarryPotter4D.csproj", "{449517F0-8BD9-44DE-AE85-02B7314CA749}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TEST", "TEST\TEST.csproj", "{AFCEBA22-2CF1-4D5D-99BA-E90322398E20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF8165CD-C0D5-4EEC-8EF2-FF8218D83FE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF8165CD-C0D5-4EEC-8EF2-FF8218D83FE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF8165CD-C0D5-4EEC-8EF2-FF8218D83FE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF8165CD-C0D5-4EEC-8EF2-FF8218D83FE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1B3EAEC-D4C0-4263-A52C-8DC2097B3BA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1B3EAEC-D4C0-4263-A52C-8DC2097B3BA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1B3EAEC-D4C0-4263-A52C-8DC2097B3BA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1B3EAEC-D4C0-4263-A52C-8DC2097B3BA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{449517F0-8BD9-44DE-AE85-02B7314CA749}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{449517F0-8BD9-44DE-AE85-02B7314CA749}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{449517F0-8BD9-44DE-AE85-02B7314CA749}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{449517F0-8BD9-44DE-AE85-02B7314CA749}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFCEBA22-2CF1-4D5D-99BA-E90322398E20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFCEBA22-2CF1-4D5D-99BA-E90322398E20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFCEBA22-2CF1-4D5D-99BA-E90322398E20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFCEBA22-2CF1-4D5D-99BA-E90322398E20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

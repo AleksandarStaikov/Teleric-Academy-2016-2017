@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecodeAndDecript", "DecodeAndDecript\DecodeAndDecript.csproj", "{ED46AC29-5A0B-4DAC-95FB-58AFA8595DB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiuniverseComunication", "MultiuniverseComunication\MultiuniverseComunication.csproj", "{7F804AEB-7AC4-41AA-A733-B0FFFB731C19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicWords", "MagicWords\MagicWords.csproj", "{F4F4D710-A226-434D-BF77-79AD35B407F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED46AC29-5A0B-4DAC-95FB-58AFA8595DB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED46AC29-5A0B-4DAC-95FB-58AFA8595DB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED46AC29-5A0B-4DAC-95FB-58AFA8595DB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED46AC29-5A0B-4DAC-95FB-58AFA8595DB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F804AEB-7AC4-41AA-A733-B0FFFB731C19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F804AEB-7AC4-41AA-A733-B0FFFB731C19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F804AEB-7AC4-41AA-A733-B0FFFB731C19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F804AEB-7AC4-41AA-A733-B0FFFB731C19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4F4D710-A226-434D-BF77-79AD35B407F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4F4D710-A226-434D-BF77-79AD35B407F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4F4D710-A226-434D-BF77-79AD35B407F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4F4D710-A226-434D-BF77-79AD35B407F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
