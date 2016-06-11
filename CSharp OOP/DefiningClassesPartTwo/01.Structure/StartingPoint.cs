@@ -14,6 +14,7 @@ namespace _01.Structure
             var myPoint = new Point(2,4,7);
 
             Console.WriteLine(myPoint.ToString());
+            Console.WriteLine(Point.O);
         }
     }
 }
